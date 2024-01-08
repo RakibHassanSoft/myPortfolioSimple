@@ -356,8 +356,9 @@ h6 {
 
 .C {
     vertical-align: baseline;
-    height: 20px;
+    height: 18px;
     padding-right: 16px;
+    padding-bottom: 0;
 }
 
 .container8_left_top {
