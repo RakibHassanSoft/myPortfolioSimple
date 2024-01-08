@@ -187,6 +187,7 @@ h6 {
     width: 33.33%;
     border: 30px;
     font-size: 22px;
+
 }
 
 .img-circle {
@@ -203,6 +204,8 @@ h6 {
 
 .contailer5_text2 {
     padding-top: 100px;
+    text-align:left;
+   margin-left: 110px;
 }
 
 .contailer5_p {
