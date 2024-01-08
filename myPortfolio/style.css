@@ -79,10 +79,11 @@ h6 {
 /* container 3 */
 /* container 3 */
 .container3 {
-    background-image: url('./img/Vectorrr.png');
+    background-image: url('./img/Vectorrr.png') ;
+    background-size:auto;
+    background-repeat: no-repeat;
     width: 100%;
     height: 700px;
-    background-size: cover;
     color: white;
     margin-bottom: 200px;
     display: flex;
@@ -129,7 +130,7 @@ h6 {
 
 .right_ontainer3 {
     margin-top: 60px;
-    margin-left: 146px;
+    margin-left: 60px;
 }
 
 /* container 4 */
